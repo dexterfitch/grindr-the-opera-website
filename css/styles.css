@@ -1,0 +1,66 @@
+/* global styles */
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: #302D33;
+  color: #FFF;
+}
+
+/* sections */
+.section {
+  padding: 40px 0;
+  display: table;
+  height: 100%;
+  position: relative;
+  width: 100%;
+}
+
+#top {
+  background: url(http://i.imgur.com/HEmgYXq.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#synopsis {
+}
+
+#press {
+  background-color: #FCC14B;
+  color: #000;
+}
+
+#crew {
+}
+
+#crew .panel {
+  color: #000;
+  opacity: 0.75;
+}
+
+#contact {
+  background-color: #FCC14B;
+  color: #000;
+  height: 100%;
+}
+
+
+/*---------------------------------------------------------------------------*/
+
+.bio-blurb {
+  margin-top: 1em;
+}
+
+.headshot {
+  border-radius: 90px;
+  text-align: center;
+}
+
+.siren-text {
+  font-style: italic;
+}
+
+.title-text {
+  font-weight: bold;
+}﻿
