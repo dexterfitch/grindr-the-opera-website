@@ -1,7 +1,7 @@
 ##'GRINDR: The Opera' Website
 by Dex Fitch
 
-A static website made with rails to promote the musical production "GRINDR The Opera" by Erik Ransom. Design inspiration was drawn from Grindr itself, 1940's Broadway billboards, and pixel art.
+A one-page website to promote the musical production "GRINDR The Opera" by Erik Ransom. Design inspiration was drawn from the app Grindr itself, Broadway billboards, and pixel art.
 
 
 ##'GRINDR: The Opera' Synopsis
