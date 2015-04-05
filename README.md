@@ -22,7 +22,7 @@ This is a work in progress!
 
 ##Motivation
 
-I've worked with Erik before on another production of his, "Coming the Musical" (http://www.comingthemusical.com), and was delighted to be commissioned by him again. I wanted to try a bootstrap-based site this time, and to dip a toe in the realm of pixel art and vector art for the design.
+I've worked with Erik before on another production of his, "Coming the Musical" (http://www.comingthemusical.com), and was delighted to be commissioned by him again. I wanted to try a bootstrap-based site this time, and to dip a toe in the realm of pixel art for the design.
 
 
 ##License
