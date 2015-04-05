@@ -16,7 +16,7 @@ html, body {
 }
 
 #top {
-  background: url(http://i.imgur.com/HEmgYXq.png) no-repeat center center fixed;
+  background: url('../img/cover.png') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -24,11 +24,22 @@ html, body {
 }
 
 #synopsis {
+  background-color: #FCC14B;
+  color: #000;
 }
 
 #press {
   background-color: #FCC14B;
   color: #000;
+}
+
+#press .panel {
+  height: 180px;
+}
+
+#press .panel img {
+  padding: 0.3em;
+  max-width: 100%;
 }
 
 #crew {
@@ -47,6 +58,10 @@ html, body {
 
 
 /*---------------------------------------------------------------------------*/
+#splash, #stub {
+  max-width:100%;
+  border-radius: 10px;
+}
 
 .bio-blurb {
   margin-top: 1em;
