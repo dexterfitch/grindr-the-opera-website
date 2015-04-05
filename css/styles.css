@@ -1,12 +1,20 @@
-/* global styles */
 html, body {
   height: 100%;
   width: 100%;
   background-color: #302D33;
   color: #FFF;
+  font-family: 'Oswald', sans-serif;
 }
 
-/* sections */
+h2 {
+  font-family: 'Niconne', cursive;
+  font-size: 4em;
+}
+
+h3 {
+  font-size: 2em;
+}
+
 .section {
   padding: 40px 0;
   display: table;
@@ -21,6 +29,11 @@ html, body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+
+#recruit {
+  font-size: 2em;
+  font-family: 'Oswald', sans-serif;
 }
 
 #synopsis {
@@ -56,8 +69,11 @@ html, body {
   height: 100%;
 }
 
+#contact a {
+  font-family: 'Bree Serif', serif;
+  font-size: 1.5em;
+}
 
-/*---------------------------------------------------------------------------*/
 #splash, #stub {
   max-width:100%;
   border-radius: 10px;
