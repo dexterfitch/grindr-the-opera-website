@@ -90,6 +90,10 @@ iframe {
   border-radius: 10px;
 }
 
+#twitter-widget-0 {
+  height: 360px !important;
+}
+
 .bio-blurb {
   margin-top: 1em;
 }
