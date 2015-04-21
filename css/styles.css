@@ -110,3 +110,20 @@ iframe {
 .title-text {
   font-weight: bold;
 }﻿
+
+.panel, .panel-default {
+  border: 0;
+  border-radius: 0;
+  padding: .5em;
+  margin: .5em;
+  height: 100%;
+}
+
+.slide {
+  height: 215px;
+}
+
+.press-logo {
+  width: 100%;
+  margin-bottom: 1em;
+}
